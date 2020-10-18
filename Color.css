@@ -1,0 +1,32 @@
+.square{
+    float: left;
+    width: 30%;
+    height: 0;
+    padding-bottom: 30%;
+    background-color: royalblue;
+    margin: 1.66%;
+}
+
+.container{
+    width: 600px !important;
+    margin: 0 auto;
+}
+
+body{
+    background-color:  #232323 !important;
+}
+
+h1{
+    color: white;
+}
+
+#massage{
+    color: black;
+    
+}
+
+#stripe{
+    background: white ;
+    height: 30px;
+    text-align: center;
+}
